@@ -1,0 +1,3 @@
+[submodule "role-nix"]
+	path = role-nix
+	url = https://github.com/whslabs/ansible-role-nix.git
